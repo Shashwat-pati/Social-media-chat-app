@@ -7,6 +7,8 @@
 
 🔸In this project i learnt about `React Query` and how it simplifies data fetching, caching, and state management, reducing boilerplate code, improving readability, and offering a more intuitive solution compared to `React Redux`.
 
+🔸Designed the UI part using `SCSS` which consists of more advanced features such as nesting of SCSS rules, and thus, it can perform more advanced functions in contrast to standard `CSS`.
+
 ---------------------------------------------------------------------------
 ## Available Scripts
 
