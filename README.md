@@ -21,6 +21,7 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 Builds the app for production to the `build` folder.\
+
 ----------------------------------------------------------------------------
 
 🔖 Below is the attached Images and Video description of the web-application build.
