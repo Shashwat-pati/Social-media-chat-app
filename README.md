@@ -1,7 +1,10 @@
 # Social-media-chat-app
-🔸Developed a Full Stack Social Media Chat application where user can Chat,share Posts & Stories and also get real time, online & last seen status of friends.
+🔸Developed a Full Stack Social Media Chat application where user can Chat,share Posts & Stories and also get real time, online & last seen status of friends
+
 🔸Implemented `Node.js` & `Express.js` to host as backend server.
+
 🔸Used `MySQL` for database management purpose and also created REST API using `Insomnia`.
+
 🔸In this project i learnt about `React Query` and how it simplifies data fetching, caching, and state management, reducing boilerplate code, improving readability, and offering a more intuitive solution compared to `React Redux`.
 
 ---------------------------------------------------------------------------
